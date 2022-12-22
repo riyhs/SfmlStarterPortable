@@ -29,6 +29,8 @@ int main() {
 		// Finished Drawing
 		window.display();
 
+		// Add Lobby screen
+		// Fix bug Lobby screen
 	}
 
 	return 0;
