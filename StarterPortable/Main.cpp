@@ -33,6 +33,10 @@ int main() {
 		// Fix bug Lobby screen
 
 		// Edit code
+		for (int i = 0; i < 5; i++) {
+			// oke
+			// fix bug
+		}
 	}
 
 	return 0;
