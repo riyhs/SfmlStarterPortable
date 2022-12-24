@@ -39,6 +39,7 @@ int main() {
 			// fix bug
 			// test
 		}
+		// ini dari rifqi
 	}
 
 	return 0;
