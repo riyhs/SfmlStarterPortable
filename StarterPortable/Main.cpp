@@ -35,9 +35,15 @@ int main() {
 		// Edit code
 		for (int i = 0; i < 5; i++) {
 			// oke
+			// riyaldi
 			// fix bug
+			// test
 		}
+
 		//itaa
+    
+		// ini dari rifqi
+
 	}
 
 	return 0;
